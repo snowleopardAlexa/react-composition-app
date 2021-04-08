@@ -24,6 +24,16 @@ class App extends React.Component {
         price: 3,
         country: 'Italy'
       },
+      {
+        name: 'Strawberries',
+        price: 6,
+        country: 'US'
+      },
+      {
+        name: 'Avocados',
+        price: 7,
+        country: 'Spain'
+      },
     ],
   };
 
